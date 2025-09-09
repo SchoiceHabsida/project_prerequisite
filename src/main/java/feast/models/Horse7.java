@@ -1,5 +1,6 @@
 package feast.models;
 
+@Component
 public class Horse7 {
     @Override
     public String toString() {
